@@ -13,7 +13,7 @@ namespace githubcommit
             Console.WriteLine("wms project 하는중");
 
             //test!
-            //test2
+            
             //test3
         }
     }
