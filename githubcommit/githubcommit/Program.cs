@@ -11,6 +11,8 @@ namespace githubcommit
         static void Main(string[] args)
         {
             Console.WriteLine("wms project 하는중");
+
+            //test!
         }
     }
 }
